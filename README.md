@@ -60,3 +60,6 @@ Form elements such as inputs and buttons are styled for usability and consistenc
 6. Conclusion
 
 Overall, this Weather App demonstrates a practical use of frontend web technologies and third-party APIs. Its clean structure, responsive design, and clear separation of responsibilities make it suitable for learning purposes, college projects, or as a foundation for more advanced weather-based applications.
+
+7. Output
+   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d6af4e8a-1030-413e-976e-a3b1c54a4e6b" />
